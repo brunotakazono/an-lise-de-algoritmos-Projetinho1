@@ -47,3 +47,12 @@ Portanto, lg(lg(n)) é muito pequeno em relação a lg(n) para valores suficient
 de n.
 OBS: Para determinar um valor prático para k ele deve ser o maior tamanho de entrada
 onde o *Insert-Sort* é executado mais rapidamente do que o *Merge-Sort*.
+
+Lembrando que:
+O custo final de um algoritmo pode estar relacionado a diversos fatores: 
+- Tempo de execução 
+- Utilização de memória principal 
+- Utilização de disco 
+- Consumo de energia, etc... 
+Neste caso não existe um número fixo de operações! 
+Um algoritmo pode rodar mais rápido para certos conjunto de dados do que para outros.
