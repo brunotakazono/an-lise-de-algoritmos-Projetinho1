@@ -53,6 +53,7 @@ O custo final de um algoritmo pode estar relacionado a diversos fatores:
 - Tempo de execução 
 - Utilização de memória principal 
 - Utilização de disco 
-- Consumo de energia, etc... 
+- Consumo de energia, etc...
+ 
 Neste caso não existe um número fixo de operações! 
 Um algoritmo pode rodar mais rápido para certos conjunto de dados do que para outros.
