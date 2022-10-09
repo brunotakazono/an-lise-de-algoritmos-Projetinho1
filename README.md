@@ -15,7 +15,7 @@ flutuante escolhido aleatoriamente tal que −2n ≤ A[i] ≤ 2n.
 
 
 
-# *Merge Sort* chamando o *Insertion Sort* para entradas pequenas*
+# *Merge Sort* chamando o *Insertion Sort* para entradas pequenas
 
 Apesar do *Merge Sort* executar em tempo Θ(nlgn) no pior caso e o *Insertion Sort*
 rodarem tempo Θ(n²) no pior caso, os fatores constantes no *Insertion Sort* podem fazer com
