@@ -1,4 +1,8 @@
 # Análise de Algoritmos Projetinho
+## Desenvolvido por:
+## Auriane do Carmo Barbosa          Matricula: 20202045050480
+## Bruno Matsuyama Pereira Takazono  Matricula: 20202045050439
+
 
 Neste projeto você vai comparar dois algoritmos de ordenação. Na comparação, você
 vai apresentar um gráfico no qual o eixo horizontal representa o tamanho do vetor de
