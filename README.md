@@ -1,4 +1,4 @@
-#Análise de Algoritmos Projetinho
+# Análise de Algoritmos Projetinho
 
 Neste projeto você vai comparar dois algoritmos de ordenação. Na comparação, você
 vai apresentar um gráfico no qual o eixo horizontal representa o tamanho do vetor de
@@ -15,7 +15,7 @@ flutuante escolhido aleatoriamente tal que −2n ≤ A[i] ≤ 2n.
 
 
 
-#*Merge Sort* chamando o *Insertion Sort* para entradas pequenas*
+# *Merge Sort* chamando o *Insertion Sort* para entradas pequenas*
 
 Apesar do *Merge Sort* executar em tempo Θ(nlgn) no pior caso e o *Insertion Sort*
 rodarem tempo Θ(n²) no pior caso, os fatores constantes no *Insertion Sort* podem fazer com
